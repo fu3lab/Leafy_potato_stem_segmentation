@@ -1,0 +1,1 @@
+There are total 623 images using DJI M300RTK for leafy potato stem segmentation. 
